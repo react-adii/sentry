@@ -21,7 +21,7 @@ export default function Home() {
             throw new Error('Sentry Frontend Error')
           }}
         >
-          Throw error
+          Throw error new
         </button>
         <p className={styles.description}>
           Get started by editing{' '}
